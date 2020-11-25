@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
 	cout<<"hi"<<endl;
-system("pause");
-return 0;
+	cout << "gwwiloveyou" <<endl;
+	system("pause");
+	return 0;
 }
